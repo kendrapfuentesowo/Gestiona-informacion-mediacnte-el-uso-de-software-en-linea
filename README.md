@@ -22,3 +22,24 @@ DESVENTAJAS
     Costos para funcionalidades avanzadas
     Complejidad para nuevos usuarios
     Seguridad y privacidad
+
+#Tecnicismos 
+
+Repositorio:
+    Un repositiroio contiene todo tu codigo, tus documentos y el historial de revision de cada documento. Puedes comentar y     manejar tu trabajo con el. Los repositorios pueden tener varios colaboradores y puede eser publico o privado.
+Commit:
+    Este graba los cambio de uno o mas documentos en tu branch, cada commit tiene su propio ID, llamado hash, que               especifica los cambios, cuando y por quien se crearon. Cuando realizas un commit, debe incluir un mensaje que resuma        los cambios.
+Branch:
+    Es una version paralela de tu codigo que contiene dentro del repositorio, pero que no afecta a la rama principal.
+Pull request:
+    Un pedido para unir los cambios de una branch a otra
+Fork: 
+    Un nuevo repositorio que comparte y visibiliza las configuraciones con el repositorio "etapa inicial" original.
+
+Diferencias:
+Fork: Copia personal de un repositorio ajeno que se almacena con el proposito de tener permisos de escritorio para proponer       cambios en un repositorio del que no eres dueli. Copia todo el repositorio incluyendo todas sus ramas y commits             hasta el momento.
+Commit: Captura instantanea de los cambios que has realizado en tus archivos locales. Su proposito es guardar el proceso de         tu trabajo en tu historial de git
+Branch: Un linea de trabajo alterna donde organizas en que parte estas trabajando, con el proposito de aislar el desarrollo.
+Pull request: Solicitud formal de cambios entre ramas. Es menos frecuente que el commit 
+
+    
